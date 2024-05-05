@@ -1,0 +1,329 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935140218@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB092EC0DABDB4C06EF61',
+    participant: undefined
+  },
+  messageTimestamp: 1714872062,
+  pushName: 'H',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'H',
+  body: 'hola',
+  from: '51935140218'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c16dd395-3588-489f-8886-c5fcb816d772',
+  keyword: 'key_85a072cd-3294-4433-a6c4-c241f4838b75',
+  answer: '🙌 ¡Hola bienvenido a *JOKATEJAS!*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '64bf20a82dc75699cf51ea14a8fb5973'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_362e50af-4b61-482f-b4b1-f5a559cbe289',
+  keyword: 'ans_c16dd395-3588-489f-8886-c5fcb816d772',
+  answer: '¿Cuál es tu nombre?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '326dd2b9e215884eedf3d4e3fd1ef568'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935140218@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02C8EBB5581557080C0',
+    participant: undefined
+  },
+  messageTimestamp: 1714872065,
+  pushName: 'H',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'rudy',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'H',
+  body: 'rudy',
+  from: '51935140218'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ad821030-1748-4e81-b433-a1606a98c61b',
+  keyword: 'ans_362e50af-4b61-482f-b4b1-f5a559cbe289',
+  answer: '¡Estamos felices de atenderte!, revisa nuestro catálogo:\n' +
+    'https://drive.google.com/file/d/1exGUtgAUgNoZJS-m8S_j8RUSozHaeGwO/view?usp=drive_link',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd0499c94dd28d45b96f95e9e878d712c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91bf6938-f970-4407-9588-fdb700cbef4b',
+  keyword: 'ans_ad821030-1748-4e81-b433-a1606a98c61b',
+  answer: 'Porfavor escriba *pedir* si desea ordenar algo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 3000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4ee3622e077043aaa0e3fd5246d14623'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935140218@s.whatsapp.net',
+    fromMe: false,
+    id: '34EEED63F90CDC0EE1FE85E97EB1A5FE',
+    participant: undefined
+  },
+  messageTimestamp: 1714872070,
+  pushName: 'H',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'H',
+  body: '',
+  from: '51935140218'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935140218@s.whatsapp.net',
+    fromMe: false,
+    id: 'F500DFC5923F4FA450F0877E032C25FA',
+    participant: undefined
+  },
+  messageTimestamp: 1714872071,
+  pushName: 'H',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'H',
+  body: '',
+  from: '51935140218'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935140218@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08932C3C9ACEE6AA2DE',
+    participant: undefined
+  },
+  messageTimestamp: 1714872071,
+  pushName: 'H',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'pedir',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'H',
+  body: 'pedir',
+  from: '51935140218'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_41992180-d99b-4983-af84-ec945bdfe5ee',
+  keyword: 'key_93e8b4b8-1a7b-4151-9ea1-a50005552933',
+  answer: '¡Muy bien!, a continuación escriba los siguientes datos:\n' +
+    '\n' +
+    '\n' +
+    '1) Indicar los productos que desea ordenar?\n' +
+    '\n' +
+    '2) Indicar la dirección donde se enviará su pedido (ubicación)\n' +
+    '\n' +
+    '3) Indicar el medio de pago: Efectivo o plin(*989478480*)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b46ddc468aff61ce4438b8ff4edb8883'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935140218@s.whatsapp.net',
+    fromMe: false,
+    id: '3BA8E690CE7A73078749ACF2E7698D51',
+    participant: undefined
+  },
+  messageTimestamp: 1714872072,
+  pushName: 'H',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'H',
+  body: '',
+  from: '51935140218'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935140218@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CA1B37B27CB0BCD25D',
+    participant: undefined
+  },
+  messageTimestamp: 1714872106,
+  pushName: 'H',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1) 10 chocotejas, 5 jokabones y 2 paletas',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'H',
+  body: '1) 10 chocotejas, 5 jokabones y 2 paletas',
+  from: '51935140218'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935140218@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0813A026125C013A3FC',
+    participant: undefined
+  },
+  messageTimestamp: 1714872122,
+  pushName: 'H',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2) calle cuzco 113 trujillo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'H',
+  body: '2) calle cuzco 113 trujillo',
+  from: '51935140218'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935140218@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09D7F5F7841EDC920E8',
+    participant: undefined
+  },
+  messageTimestamp: 1714872138,
+  pushName: 'H',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3) pago con efectivo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'H',
+  body: '3) pago con efectivo',
+  from: '51935140218'
+}
